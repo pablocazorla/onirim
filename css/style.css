@@ -1,15 +1,14 @@
 body{
-	height:2000px;
+	background-color: #DDD;
 }
 h4{
 	position: fixed;top:0;left:0;background: #FFF;z-index:10000;
 }
 
 .onirim{
-	width: 500px;
-	height: 400px;
+	display: block;
 	border: solid 1px #CCC;
-	margin-top: 300px;
-	margin-left:200px;
-	cursor: default;
+	background-color: #FFF;
+	padding: 0;
+	margin:20px auto;
 }
