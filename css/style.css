@@ -8,7 +8,7 @@ h4{
 .onirim{
 	display: block;
 	border: solid 1px #CCC;
-	background-color: #FFF;
+	background: #FFF url('../img/table.jpg') center no-repeat;
 	padding: 0;
 	margin:20px auto;
 }
